@@ -50,6 +50,8 @@ This project addresses these challenges by consolidating observability data into
 
 <img width="1891" height="865" alt="image" src="https://github.com/user-attachments/assets/997d1295-6992-471d-b99d-23ad8a305d98" />
 
+<img width="1887" height="849" alt="image" src="https://github.com/user-attachments/assets/e18a33ef-54c2-41df-81f3-1e543eee2dfc" />
+
 ### Seasonal & ML Insights
 
 <img width="1884" height="838" alt="image" src="https://github.com/user-attachments/assets/687ad2c8-48da-4b61-97b4-595a442d3773" />
