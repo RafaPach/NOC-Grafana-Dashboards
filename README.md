@@ -38,11 +38,11 @@ This project addresses these challenges by consolidating observability data into
 
 ### Top 10 Applications RAG Overview
 
-<img width="1877" height="855" alt="image" src="https://github.com/user-attachments/assets/842b3dfe-f820-4330-a2b4-a79cb86e2309" />
+<img width="1877" height="855" alt="image" src="https://github.com/user-attachments/assets/e500c6b1-b0ef-4c43-b3b1-2773b67353b8" />
 
 ### Drill-Down View
 
-<img width="1875" height="760" alt="image" src="https://github.com/user-attachments/assets/cf3ea5e2-e287-447d-a2b8-c8b2ac5c4b82" />
+<img width="1875" height="760" alt="image" src="https://github.com/user-attachments/assets/91d8416c-c391-47d3-8346-2f08104730db" />
 
 <img width="1880" height="562" alt="image" src="https://github.com/user-attachments/assets/8bdf4ada-8e56-42de-b764-669eaf020eb4" />
 
